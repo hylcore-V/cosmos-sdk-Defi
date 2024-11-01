@@ -47,6 +47,5 @@ curl https://get.ignite.com/username/loan@latest! | sudo bash
 
 - [Ignite CLI](https://ignite.com/cli)
 - [Tutorials](https://docs.ignite.com/guide)
-- [Ignite CLI docs](https://docs.ignite.com)
 - [Cosmos SDK docs](https://docs.cosmos.network)
 - [Developer Chat](https://discord.gg/ignite)
